@@ -1,0 +1,4 @@
+RaffleTest:testEnteringPlayersEvents() (gas: 68619)
+RaffleTest:testEntranceFeeIsNotEnoughPayed() (gas: 10807)
+RaffleTest:testRaffleStateIsOpen() (gas: 7750)
+RaffleTest:testRecordesAreStoredInRaffle() (gas: 68264)
